@@ -1,9 +1,9 @@
 ---
 ---
 
-# nathanwolfsonkin's Website
+# ABOUT TRAIL
 
-An engaging 1-3 sentence description of your lab.
+TRAIL seeks to enable teams of mobile robots to autonomously explore and gather information with limited a priori knowledge of the given situation, turning sensor data into actionable information. This work has immediate application to a broad range of scenarios, including infrastructure inspection, security and surveillance, mapping, environmental monitoring, precision agriculture, and search and rescue. In any of these scenarios there is uncertainty in the environment, the sensors, and the robots. Additionally, the number of objects of interest (e.g., injured persons in a first responder scenario) is often unknown, and there may be unpredictable physical phenomena. By developing mathematical tools and building systems that explicitly consider and reason about all of these sources of uncertainty, we seek to improve the performance of robotic teams in real-world applications.
 
 {% include section.html %}
 

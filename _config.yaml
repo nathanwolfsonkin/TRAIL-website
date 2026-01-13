@@ -1,6 +1,6 @@
 # site properties and page defaults
-title: nathanwolfsonkin
-subtitle: 
+title: TRAIL
+subtitle: Temple Robotics and Artificial Intelligence Lab
 description: An engaging 1-3 sentence description of your lab.
 header: images/background.jpg
 footer: images/background.jpg
@@ -8,12 +8,12 @@ proofer: false
 
 # site social media and other links
 links:
-  email: contact@nathanwolfsonkin.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
-  github: nathanwolfsonkin
-  twitter: nathanwolfsonkin
-  youtube: nathanwolfsonkin
+  email: pdames@temple.edu
+  orcid: 0000-0002-7257-0075
+  google-scholar: s4yerDQAAAAJ
+  github: TempleRAIL
+  # twitter: 
+  youtube: "@philipdames8428"
 
 ### jekyll settings
 

@@ -14,20 +14,20 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {%
   include button.html
   type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
+  text="pdames@temple.edu"
+  link="pdames@temple.edu"
 %}
 {%
   include button.html
-  type="phone"
-  text="(555) 867-5309"
-  link="+1-555-867-5309"
+  type="phone" 
+  text="(215) 204-7974"
+  link="+1-215-204-7974"
 %}
 {%
   include button.html
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
+  link="https://www.google.com/maps/place/College+of+Engineering+at+Temple+University/@39.9824908,-75.1554673,17z/data=!3m1!4b1!4m6!3m5!1s0x89c6c80a3ccc07bb:0xe07fe8f636375d6f!8m2!3d39.9824908!4d-75.152887!16s%2Fg%2F11bxvkxcgg?entry=ttu&g_ep=EgoyMDI2MDEwNy4wIKXMDSoASAFQAw%3D%3D"
 %}
 
 {% include section.html %}

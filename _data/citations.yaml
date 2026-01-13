@@ -155,12 +155,13 @@
   title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
     and phylogeny'
   authors:
-  - Jacob D Krol
-  - Joseph T Burke
-  - Samuel Z Chen
-  - Lo M Sosinski
   - Faisal S Alquaddoomi
+  - Joseph T Burke
+  - Lo Sosinski
+  - David A Mayer
   - Evan P Brenner
+  - Samuel Z Chen
+  - Jacob D Krol
   - Ethan P Wolfe
   - Vincent P Rubinetti
   - Shaddai Amolitos
@@ -260,5 +261,20 @@
   date: '2018-03-01'
   link: https://doi.org/ckcj
   image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.48550/arXiv.2508.19114
+  title: 'DELIVER: A System for LLM-Guided Coordinated Multi-Robot Pickup and Delivery
+    using Voronoi-Based Relay Planning'
+  authors:
+  - Alkesh K. Srivastava
+  - Jared Michael Levin
+  - Alexander Derrico
+  - Philip Dames
+  publisher: arXiv
+  date: '2025-08-26'
+  link: https://doi.org/hbjq89
+  image: https://sites.temple.edu/pdames/files/2016/07/cropped-scarabs.jpg
+  type: paper
   plugin: sources.py
   file: sources.yaml
