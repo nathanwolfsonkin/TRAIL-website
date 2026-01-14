@@ -34,12 +34,12 @@ Our research focuses on developing intelligent robotic systems capable of operat
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Stay up to date on the latest from TRAIL
 
 {%
   include button.html
-  link="projects"
-  text="Browse our projects"
+  link="blog"
+  text="Check out our blog"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -49,9 +49,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/projects.jpg"
+  image="images/index/blog.jpg"
   link="projects"
-  title="Our Projects"
+  title="Our Blog"
   flip=true
   style="bare"
   text=text

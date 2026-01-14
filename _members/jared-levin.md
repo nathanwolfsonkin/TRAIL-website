@@ -1,9 +1,10 @@
 ---
 name: Jared Levin
-image: images/jared_levin.jpeg
-description: MS Student 
+image: images/members/jared_levin.jpeg
+description: MS Student
 role: phd
 links:
-  email: nathan.wolf-sonkin@temple.edu
+  email: jared.levin@temple.edu
+  linkedin: jared-levin
 ---
 

@@ -1,6 +1,6 @@
 ---
 name: Yu Cao
-image: images/yu_cao.jpeg
+image: images/members/yu_cao.jpeg
 description: PhD Student
 role: phd
 links:

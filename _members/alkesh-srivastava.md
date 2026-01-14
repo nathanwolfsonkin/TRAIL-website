@@ -1,6 +1,6 @@
 ---
 name: Alkesh K. Srivastava
-image: images/alkesh_srivastava.jpg
+image: images/members/alkesh_srivastava.jpg
 description: PhD Student
 role: phd
 links:

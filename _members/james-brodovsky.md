@@ -1,6 +1,6 @@
 ---
 name: James Brodovsky
-image: images/james_brodovsky.jpeg
+image: images/members/james_brodovsky.jpeg
 description: PhD Candidate
 role: phd
 links:

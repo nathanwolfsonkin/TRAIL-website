@@ -1,6 +1,6 @@
 ---
 name: Nathan Wolf-Sonkin
-image: images/nathan_wolf-sonkin.jpg
+image: images/members/nathan_wolf-sonkin.jpg
 description: PhD Student
 role: phd
 links:

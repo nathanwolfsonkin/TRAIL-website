@@ -1,6 +1,6 @@
 ---
 name: Kevin Formento
-image: images/kevin_formento.jpeg
+image: images/members/kevin_formento.jpeg
 description: Undergraduate Student
 role: undergrad
 links:

@@ -1,6 +1,6 @@
 ---
 name: Joseph Bruno
-image: images/joseph_bruno.jpeg
+image: images/members/joseph_bruno.jpeg
 description: PhD Student
 role: phd
 links:

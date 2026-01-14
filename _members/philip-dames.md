@@ -1,6 +1,6 @@
 ---
 name: Philip Dames
-image: images/philip_dames.jpg
+image: images/members/philip_dames.jpg
 role: principal-investigator
 affiliation: Temple University
 aliases:
