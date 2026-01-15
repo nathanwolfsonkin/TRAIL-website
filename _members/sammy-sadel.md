@@ -2,7 +2,8 @@
 name: Sammy Sadel
 image: images/members/sammy_sadel.jpeg
 description: BS Eng 2020
-role: alumni
+role: undergrad
+group: alum
 links:
   linkedin: samuelsadel2020
 ---

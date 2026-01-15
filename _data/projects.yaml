@@ -1,47 +1,17 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: Safe Navigation Through Crowded Dynamic Environments
+  subtitle: 
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
+  image: images/projects/safe-navigation-through-crowded-dynamic-environments.png
+  link: 
+  description: "This project aims to develop a new method for navigation that will allow a robot to reactively modify a nominal path in order to avoid dynamic unmapped objects. The system is made up of four main components: Localization, Object Recognition, Multi-Target Tracker, and CNN-based Controller. The robot’s onboard sensors feed data into each of these components, the details of which can be found below. The robot will begin the task with a nominal path through the environment that avoids collisions with shelves and other static infrastructure and which comes  from applying a standard path planning algorithm in a map of the store. The robot will modify this nominal path using its sensor data and the output of the multi-target tracker to avoid collisions with unmapped obstacles to the map (e.g., customers and temporary product displays)."
+  tags: 
+    - dynamic navigation
 
-- title: Cool Package
-  subtitle: a subtitle
+- title: Local Autonomous Navigation for Materials Handling Ground Vehicles
+  subtitle: 
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
-
-- title: Cool Tutorial
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
-    - publication
-
-- title: Cool Web App
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
-
-- title: Cool Web Server
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
+  image: 
+  link: 
+  description: "In partnership with ASI Drives, this project aims to expand the capabilities of the FRED 2500 and FREDDIE AGV platforms. The main sensor that FRED uses to navigate is a magnetic guide sensor, which detects lines of magnetic tape laid out on the floor. This offers end-users a fast and simple installation process and does not require any special training or programming expertise: they simply have to lay out the tape on the floor. However, the current system is susceptible to wear and tear over long periods of time. For example, in a warehouse setting the FRED platform may work alongside people, forklifts, and pallet jacks. These other objects moving around can scuff or tear the tape, leading to gaps in the tape “road.” Currently, FRED stops when it reaches a gap in order for a maintenance worker to repair the “road.” The goal of this project is to enable FRED to navigate across such gaps in order to not cause significant delays in the transportation of goods. This technology will also enable FRED to perform point-to-point navigation in order to traverse intentional gaps in the road."
+  tags: 
+    - dynamic navigation

@@ -1,13 +1,13 @@
 ---
-title: Blog
+title: News
 nav:
   order: 4
   tooltip: Announcements
 ---
 
-# {% include icon.html icon="fa-solid fa-feather-pointed" %}Blog
+# {% include icon.html icon="fa-solid fa-feather-pointed" %}News
 
-<!-- Sample Text to introduce the blog -->
+<!-- Sample Text to introduce news posts -->
 
 {% include section.html %}
 

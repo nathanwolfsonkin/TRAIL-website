@@ -3,6 +3,7 @@ name: James Brodovsky
 image: images/members/james_brodovsky.jpeg
 description: PhD Candidate
 role: phd
+group: current
 links:
   email: jbrodovsky@temple.edu
   orcid: 0000-0002-1371-9044

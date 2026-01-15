@@ -2,14 +2,17 @@
 name: Philip Dames
 image: images/members/philip_dames.jpg
 role: principal-investigator
-affiliation: Temple University
+# affiliation: Temple University
 aliases:
+  - Philip Dames
+  - Philip M. Dames
   - P Dames
   - PM Dames
+group: current
 links:
   email: pdames@temple.edu
-#   home-page: https://janesmith.com
   orcid: 0000-0002-7257-0075
+  home-page: https://engineering.temple.edu/directory/philip-dames-tug85627
 ---
 
 I am an Associate Professor of Mechanical Engineering at Temple University. I seek to enable teams of mobile robots to autonomously explore and gather information with limited a priori knowledge of the given situation, turning sensor data into actionable information. My work has immediate application to a broad range of scenarios, including infrastructure inspection, security and surveillance, mapping, environmental monitoring, precision agriculture, and search and rescue. In any of these scenarios there is uncertainty in the environment, the sensors, and the robots. Additionally, the number of objects of interest (e.g., injured persons in a first responder scenario) is often unknown, and there may be unpredictable physical phenomena. By developing mathematical tools and building systems that explicitly consider and reason about all of these sources of uncertainty, I seek to improve the performance of robotic teams in real-world applications.

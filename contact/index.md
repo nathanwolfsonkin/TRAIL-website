@@ -7,6 +7,9 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
+Our lab is part of the Temple University College of Engineering, located in Philadelphia, Pennsylvania. 
+{:.center}
+
 {%
   include button.html
   type="email"

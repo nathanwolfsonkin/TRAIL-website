@@ -26,7 +26,7 @@ Our research focuses on developing intelligent robotic systems capable of operat
 
 {%
   include feature.html
-  image="images/research.jpg"
+  image="images/index/research.jpg"
   link="research"
   title="Our Research"
   text=text
@@ -35,11 +35,12 @@ Our research focuses on developing intelligent robotic systems capable of operat
 {% capture text %}
 
 Stay up to date on the latest from TRAIL
+{:.center}
 
 {%
   include button.html
-  link="blog"
-  text="Check out our blog"
+  link="news"
+  text="Check out the news"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -49,9 +50,9 @@ Stay up to date on the latest from TRAIL
 
 {%
   include feature.html
-  image="images/index/blog.jpg"
-  link="projects"
-  title="Our Blog"
+  image="images/index/news.jpg"
+  link="news"
+  title="News"
   flip=true
   style="bare"
   text=text

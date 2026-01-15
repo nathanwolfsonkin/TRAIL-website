@@ -1,0 +1,20 @@
+---
+layout: default
+---
+
+{% include section.html background=page.image %}
+
+<h1 class="center">{{ page.title }}</h1>
+
+{% include section.html %}
+
+{{ content }}
+
+{% include section.html %}
+
+{% 
+  include research-project-info.html
+  funding=page.funding
+  members=page.members
+  tags=page.tags
+%}

@@ -11,11 +11,11 @@ postdoc:
   description: Postdoctoral Researcher
 
 phd:
-  icon: fa-solid fa-user-graduate
+  icon: fa-solid fa-graduation-cap
   description: PhD Student
 
 undergrad:
-  icon: fa-solid fa-glasses
+  icon: fa-solid fa-user-graduate
   description: Undergraduate Student
 
 programmer:
@@ -25,14 +25,6 @@ programmer:
 mascot:
   icon: fa-solid fa-dog
   description: Mascot
-
-alumni:
-  icon: fa-solid fa-graduation-cap
-  description: Alumni
-
-phd-alumni:
-  icon: fa-solid fa-graduation-cap
-  description: PhD Alumni
 
 # general
 

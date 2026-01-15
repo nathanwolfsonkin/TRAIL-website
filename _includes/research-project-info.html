@@ -1,0 +1,69 @@
+<div class="post-info">
+
+  {%- if include.members -%}
+    <div style="flex-basis: 100%; display: flex; justify-content: center; align-items: center; gap: 3rem; margin-bottom: 2rem;">
+      <span data-tooltip="Active Project Members">
+        {% include icon.html icon="fa-solid fa-users" %}
+      </span>
+
+      {%- assign members = include.members
+        | join: ","
+        | downcase
+        | split: ","
+        | array_filter
+      -%}
+
+      {%- for slug in members -%}
+        {%- assign member = site.members
+          | where_exp: "m", "m.slug == slug"
+          | first
+        -%}
+
+        {%- if member -%}
+          {% include portrait.html lookup=slug style="tiny" %}
+        {%- else -%}
+          <span>{{ slug }}</span>
+        {%- endif -%}
+      {%- endfor -%}
+    </div>
+  {%- endif -%}
+
+{%- if include.funding and include.funding.size > 0 -%}
+  <div style="flex-basis: 100%; display: flex; justify-content: center; align-items: center; gap: 1rem; margin-bottom: 2rem;">
+    <span data-tooltip="Funding">
+      {% include icon.html icon="fa-solid fa-hand-holding-dollar" %}
+
+      {%- for source in include.funding -%}
+        {%- if source.url -%}
+          <a href="{{ source.url }}" target="_blank" rel="noopener" style="text-decoration: none; margin: 0 0.3rem;">
+            {{ source.name }}
+          </a>
+        {%- else -%}
+          <span style="margin: 0 0.3rem;">{{ source.name }}</span>
+        {%- endif -%}
+
+        {%- if forloop.last == false -%}
+          <span style="margin: 0 0.3rem;">|</span>
+        {%- endif -%}
+      {%- endfor -%}
+
+    </span>
+  </div>
+{%- endif -%}
+
+
+
+</div>
+
+{%- if include.tags and include.tags.size > 0 -%}
+  {%- assign first_tag = include.tags | first -%}
+  {%- assign tag_query = 'tag: ' | append: first_tag -%}
+  {%- assign quoted_query = '"' | append: tag_query | append: '"' -%}
+
+  <div class="center" style="margin-top: 1rem;">
+    <a class="button"
+       href="{{ '/research/' | relative_url }}?search={{ quoted_query | url_encode }}">
+      View related publications
+    </a>
+  </div>
+{%- endif -%}

@@ -2,7 +2,8 @@
 name: Jun Chen
 image: images/members/jun_chen.jpg
 description: PhD 2021
-role: phd-alumni
+role: phd
+group: alum
 links:
   home-page: https://junchenrobotics.github.io/
 ---

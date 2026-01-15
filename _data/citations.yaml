@@ -602,6 +602,8 @@
   date: '2020-01-03'
   link: https://doi.org/hbjtmm
   type: paper
+  tags:
+  - distributed tracking
   plugin: sources.py
   file: sources.yaml
 - id: 10.1007/s10514-019-09840-9
@@ -612,6 +614,8 @@
   date: '2019-02-22'
   link: https://doi.org/gg57vt
   type: paper
+  tags:
+  - distributed tracking
   plugin: sources.py
   file: sources.yaml
 - id: 10.1109/IROS45743.2020.9341126
@@ -625,6 +629,8 @@
   date: '2021-02-10'
   link: https://doi.org/gqrgvt
   type: paper
+  tags:
+  - distributed tracking
   plugin: sources.py
   file: sources.yaml
 - id: 10.1007/978-3-030-95459-8_32
@@ -636,6 +642,8 @@
   date: '2022-02-17'
   link: https://doi.org/hbjtmn
   type: paper
+  tags:
+  - distributed tracking
   plugin: sources.py
   file: sources.yaml
 - id: 10.1017/aap.2019.21
@@ -699,6 +707,8 @@
   publisher: 2017 International Symposium on Multi-Robot and Multi-Agent Systems (MRS)
   date: '2017-12-01'
   link: https://doi.org/hbjtmp
+  tags:
+  - distributed tracking
   plugin: sources.py
   file: sources.yaml
 - id: 10.1177/0278364917709507

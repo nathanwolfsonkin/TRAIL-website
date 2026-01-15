@@ -3,6 +3,7 @@ name: Alkesh K. Srivastava
 image: images/members/alkesh_srivastava.jpg
 description: PhD Student
 role: phd
+group: current
 links:
   email: alkesh@temple.edu
   home-page: https://alkeshks.com/
