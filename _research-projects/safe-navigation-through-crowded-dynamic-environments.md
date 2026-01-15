@@ -1,5 +1,6 @@
 ---
 title: Safe Navigation Through Crowded Dynamic Environments
+image: images/projects/safe-navigation-through-crowded-dynamic-environments.png
 funding: 
   - name: Amazon Research Award
     url: https://ara.amazon-ml.com/recipients/#2018
