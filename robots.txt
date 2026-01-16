@@ -1,1 +1,1 @@
-Sitemap: https://nathanwolfsonkin.github.io/TRAIL-website/sitemap.xml
+Sitemap: https://templerail.github.io/TRAIL-website/sitemap.xml
