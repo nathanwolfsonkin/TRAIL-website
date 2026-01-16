@@ -1,7 +1,7 @@
 # site properties and page defaults
 title: TRAIL
 subtitle: Temple Robotics and Artificial Intelligence Lab
-description: An engaging 1-3 sentence description of your lab.
+description: TRAIL seeks to enable teams of mobile robots to autonomously explore and gather information with limited a priori knowledge of the given situation, turning sensor data into actionable information.
 header: images/background.jpg
 footer: images/background.jpg
 proofer: false

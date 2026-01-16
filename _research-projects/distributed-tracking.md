@@ -8,6 +8,8 @@ funding:
 members: 
   - nathan-wolf-sonkin
   - alkesh-srivastava
+tags:
+  - distributed tracking
 ---
 
 The ability to track, predict and reason about pedestrians and vehicles in a fast-paced dense urban environment is crucial to ensuring that autonomous vehicles can operate safely and dependably. This project focuses on providing that capability to fleets of autonomous cars and delivery drones, allowing these autonomous systems to realize their promised societal benefits, such as the potential for greater mobility of people and goods while reducing traffic congestion and increasing safety. This technology can moreover be customized for other applications such as large manufacturing operations and even small household robotic applications.

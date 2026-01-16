@@ -1,7 +1,7 @@
 ---
 title: Local Autonomous Navigation For Materials Handling Ground Vehicles
 image: images/projects/local-autonomous-navigation-for-materials-handling-ground-vehicles.jpg
-funding: 
+funding:
   - name: Manufacturing PA Innovation Program
     url: https://www.manufacturingpa.org/news/2020/05/29-dced-awards-manufacturing.html
 members: 

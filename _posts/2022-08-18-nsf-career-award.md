@@ -1,6 +1,6 @@
 ---
 title: NSF Career Award
-image: images/blog/2022-08-18-nsf-career-award.jpg
+image: images/news/2022-08-18-nsf-career-award.jpg
 author: Philip Dames
 tags: 
     - awards
