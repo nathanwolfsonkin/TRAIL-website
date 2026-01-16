@@ -5,6 +5,6 @@
 
   # TRAIL's Website
 
-  Visit **[nathanwolfsonkin.github.io/TRAIL-website](https://TempleRAIL.github.io/TRAIL-website)** 🚀
+  Visit **[templerail.github.io/TRAIL-website](https://templerail.github.io/TRAIL-website)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
